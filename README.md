@@ -2,4 +2,4 @@
 
 这是Git
 
-![image](https://github.com/mxj-jay/hello-world/blob/master/images/timg.jpg)
+![image](https://github.com/mxj-jay/hello-world/blob/master/images/timg.gif)
